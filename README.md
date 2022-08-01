@@ -11,8 +11,8 @@
 <div display: inline-block; align="left">
 <a href="https://www.linkedin.com/in/nylbert-victor-397951120"><img align="center" src="https://img.shields.io/badge/linkedin-0a65c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/nylbert-victor-397951120"/></a>
 <a href="https://instagram.com/nylbert"><img align="center" src="https://img.shields.io/badge/Instagram-d03c8a?style=for-the-badge&logo=instagram&logoColor=white" alt="@nylbert"/></a>
-<a href="fb.com/neodrift" ><img align="center" src="https://img.shields.io/badge/facebook-0c86ee?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook Nylbert"/></a>
-<a href="steamcommunity.com/id/redmarverick" ><img align="center" src="https://img.shields.io/badge/steam-171a21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Ultra Maverick"/></a>
+<a href="https://fb.com/neodrift" ><img align="center" src="https://img.shields.io/badge/facebook-0c86ee?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook Nylbert"/></a>
+<a href="https://steamcommunity.com/id/redmarverick" ><img align="center" src="https://img.shields.io/badge/steam-171a21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Ultra Maverick"/></a>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
