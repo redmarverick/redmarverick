@@ -1,11 +1,11 @@
-<h1 align="center">Eae 👋, meu nome é Nylbert</h1>
+<h1 align="center">What's up, my name is Nylbert</h1>
 <h3 align="center">I'm a guy who likes learning and programing new languages, i also like editing images and videos</h3>
 
 - 🌱 I’m currently learning **Python, Assembly and everything that becomes interesting**
 
 - 💬 Ask me about **HTML, Photoshop, C#, SQL and i'll help you**
 
-- 📫 How to reach me **email me on nylbertvictorfm@outlook.com or @nylbert on IG**
+- 📫 How to reach me **email me on nylbertvictorfm@outlook.com or <a href="https://www.instagram.com/nylbert/">@nylbert</a> on IG**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
