@@ -2,9 +2,9 @@
 <h1 align="center">What's up, my name is Nylbert</h1>
 <h3 align="center">I'm a guy who likes learning and programing new languages, i also like editing images and videos</h3>
 
-- 🌱 I’m currently learning **Python, Assembly and everything that becomes interesting**
+- 🌱 I’m currently learning **Python and Angular and everything that becomes interesting**
 
-- 💬 Ask me about **HTML, Photoshop, C#, SQL and i'll help you**
+- 💬 Ask me about **HTML, Photoshop, C#, Ruby on Rails, React or SQL and i'll help you**
 
 - 📫 How to reach me **email me on nylbertvictorfm@outlook.com or <a href="https://www.instagram.com/nylbert/">@nylbert</a> on IG**
 
